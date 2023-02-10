@@ -1,0 +1,7 @@
+.details:hover {
+    cursor: pointer;
+}
+
+.details {
+    background-color: cadetblue;
+}
